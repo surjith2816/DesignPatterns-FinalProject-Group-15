@@ -15,3 +15,6 @@ Implemented Design Patterns:
 7) Adapter Pattern: To connect the application with external API’s as required and making them compatible to integrate with the application
 8) Prototype Pattern: To use existing templates to set up and implement new features
 9) Factory Pattern: To manage the addition of new products from a single point for a more consistent codebase
+10) State Pattern: To maintain the overall state of the application at anytime
+11) Builder Pattern: To implement and build objects for all the components
+
