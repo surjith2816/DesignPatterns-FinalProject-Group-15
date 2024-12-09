@@ -1,4 +1,4 @@
-package com.medplus.adapter;
+package com.medplus.Adapter;
 
 import com.medplus.MedicineAPI;
 

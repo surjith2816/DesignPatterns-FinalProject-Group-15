@@ -1,4 +1,4 @@
-package com.medplus.adapter;
+package com.medplus.Adapter;
 
 public class Manufacturer implements Cloneable {
 
